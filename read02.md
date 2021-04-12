@@ -7,6 +7,7 @@
 # 2.Centralized Version Control 
 # 3. Distributed Version Control.
 # So, what is Git?
+Git is a DVCS that stores data in a file system made up of snapshots. Every time you save a changed version of your project - called commit - Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the mirrored version already stored of it.
 # [read02](https://replit.com/@baradweelrawan/reading-notes#read02.md)
 
 
