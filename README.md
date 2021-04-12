@@ -7,3 +7,4 @@ _when i feel down and faced problem with GitHub i motivate my self by:_
 - i put a more eefort to learn-.
 
 [atlassian](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
+.[read01].(https://github.com/baradweelrawan/reading-notes/blob/main/read01.md).
