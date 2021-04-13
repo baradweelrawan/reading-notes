@@ -138,6 +138,8 @@ what information they need in order to achieve their goals quickly and effective
 as news) may be constantly changing, while other content remains relatively static. 
     5. Site Maps:Now that you know what needs to appear on your site, you can start to organize the information into sections or pages.
 
+ Done 
+
 
 
           
