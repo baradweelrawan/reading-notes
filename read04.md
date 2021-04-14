@@ -1,6 +1,6 @@
 # this is read03
 # Java Script
-# How dO i write a script for a web page?
+# How do i write a script for a web page?
 First of all, you need to know how it will fit together with the HTML and CSS in your web pages.
 
 ![JAVASCRIPT](https://blog.eduonix.com/wp-content/uploads/2018/09/JavaScript-Functions-696x500.jpg)
