@@ -13,3 +13,8 @@ _when i feel down and faced problem with GitHub i motivate my self by:_
 Growth Mindset Link [atlassian](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
 
 [read01](https://github.com/baradweelrawan/reading-notes/blob/main/read01.md).
+
+[read02](https://github.com/baradweelrawan/reading-notes/blob/main/read02.md)
+
+[read03](https://github.com/baradweelrawan/reading-notes/blob/main/read03.md)
+[read04](https://github.com/baradweelrawan/reading-notes/blob/main/read04.md)
