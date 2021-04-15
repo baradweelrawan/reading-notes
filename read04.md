@@ -1,4 +1,4 @@
-# this is read03
+# this is read04
 # Java Script
 # How do i write a script for a web page?
 First of all, you need to know how it will fit together with the HTML and CSS in your web pages.
