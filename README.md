@@ -27,6 +27,12 @@ Growth Mindset Link [atlassian](https://www.atlassian.com/blog/inside-atlassian/
 [class01](https://github.com/baradweelrawan/reading-notes/blob/main/class01.md)
 =======
 # class 201:
+| Reading   |     link     | 
+|----------|:-------------:|
+| read03   |  https://github.com/baradweelrawan/reading-notes/blob/main/class201/read03.md |
+| read04l201 |   https://github.com/baradweelrawan/reading-notes/blob/main/class201/read04l201.md   |  
+| read05L201 | (https://github.com/baradweelrawan/reading-notes/blob/main/class201/read05L201.md | 
+
 [class201](https://github.com/baradweelrawan/reading-notes/tree/main/class201)
 [read03](https://github.com/baradweelrawan/reading-notes/blob/main/class201/read03.md)
 
