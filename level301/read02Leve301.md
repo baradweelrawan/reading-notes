@@ -1,4 +1,4 @@
-# this is read01 from 301
+# this is read02 from 301
 # React: Component Lifecycle Events :
 ![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyb0pK5Djj5MW8CSvzJ6iZUZzzSdrfIAEwQ&usqp=CAU)
 
