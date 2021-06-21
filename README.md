@@ -12,6 +12,8 @@ _when i feel down and faced problem with GitHub i motivate my self by:_
 
 Growth Mindset Link [atlassian](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
 
+# Code 102 - Intro to Software Development
+
 [read01](https://github.com/baradweelrawan/reading-notes/blob/main/read01.md).
 
 [read02](https://github.com/baradweelrawan/reading-notes/blob/main/read02.md)
@@ -25,9 +27,9 @@ Growth Mindset Link [atlassian](https://www.atlassian.com/blog/inside-atlassian/
 <<<<<<< HEAD
 [read09](https://github.com/baradweelrawan/reading-notes/blob/main/read09.md)
 [class01](https://github.com/baradweelrawan/reading-notes/blob/main/class01.md)
-=======
-# Level 201:
 
+
+# Code 201 - Foundations of Software Development
 
 [class201](https://github.com/baradweelrawan/reading-notes/tree/main/class201)
 
@@ -60,7 +62,7 @@ Growth Mindset Link [atlassian](https://www.atlassian.com/blog/inside-atlassian/
 
 [read14bL201](https://github.com/baradweelrawan/reading-notes/blob/main/class201/read14bL201.md)
 
-#  Level 301:
+#  Code 301 - Intermediate Software Development:
 
 [read01level301](https://github.com/baradweelrawan/reading-notes/blob/main/level301/read01.md)
 
