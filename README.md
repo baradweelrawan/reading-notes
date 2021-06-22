@@ -19,13 +19,19 @@ Growth Mindset Link [atlassian](https://www.atlassian.com/blog/inside-atlassian/
 [read02](https://github.com/baradweelrawan/reading-notes/blob/main/read02.md)
 
 [read03](https://github.com/baradweelrawan/reading-notes/blob/main/read03.md)
+
 [read04](https://github.com/baradweelrawan/reading-notes/blob/main/read04.md)
+
 [read04b](https://github.com/baradweelrawan/reading-notes/blob/main/read04b.md)
+
 [read05](https://github.com/baradweelrawan/reading-notes/blob/main/read05.md)
+
 [read06](https://github.com/baradweelrawan/reading-notes/blob/main/read06.md)
+
 [read07](https://github.com/baradweelrawan/reading-notes/blob/main/read06.md)
-<<<<<<< HEAD
+
 [read09](https://github.com/baradweelrawan/reading-notes/blob/main/read09.md)
+
 [class01](https://github.com/baradweelrawan/reading-notes/blob/main/class01.md)
 
 
@@ -69,3 +75,5 @@ Growth Mindset Link [atlassian](https://www.atlassian.com/blog/inside-atlassian/
 [read01level301](https://github.com/baradweelrawan/reading-notes/blob/main/level301/read02Leve301.md)
 
 [read03Level301](https://github.com/baradweelrawan/reading-notes/blob/main/level301/read03Level301.md)
+
+[read04Level301](https://github.com/baradweelrawan/reading-notes/blob/main/level301/read03Level301.md)
