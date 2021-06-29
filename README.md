@@ -86,4 +86,4 @@ Growth Mindset Link [atlassian](https://www.atlassian.com/blog/inside-atlassian/
 
 [read08Level301](https://github.com/baradweelrawan/reading-notes/blob/main/level301/read08level301.md)
 
-[read09Level301](https://github.com/baradweelrawan/reading-notes/blob/main/level301/read08level301.md)
+[read09Level301](https://github.com/baradweelrawan/reading-notes/blob/main/level301/read09Level301.md)
